@@ -64,7 +64,8 @@
 
 
 ## 📹 시연 영상
-[![Video Lable](http://img.youtube.com/vi/LJhPGPtheq4/0.jpg)](http://youtu.be/LJhPGPtheq4)
+[![Video Lable](http://img.youtube.com/vi/LJhPGPtheq4/0.jpg)](http://youtu.be/LJhPGPtheq4)  
+이미지를 클릭하면 영상을 시청할 수 있는 링크로 이동됩니다.
 
 <br>
 
