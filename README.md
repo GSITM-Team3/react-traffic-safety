@@ -14,7 +14,7 @@
 <br>
 
 ## 💻 개발환경
-개발 도구 <img src="https://img.shields.io/badge/HTML-FF0000"> <img src="https://img.shields.io/badge/CSS-013ADF"> <img src="https://img.shields.io/badge/JavaScript-FFFF00"> <img src="https://img.shields.io/badge/React-81BEF7">
+개발 도구 <img src="https://img.shields.io/badge/JavaScript-FFFF00"> <img src="https://img.shields.io/badge/HTML-FF0000"> <img src="https://img.shields.io/badge/CSS-013ADF"> <img src="https://img.shields.io/badge/React-81BEF7">
 
 라이브러리 <img src="https://img.shields.io/badge/axios-AC58FA"> <img src="https://img.shields.io/badge/react-58D3F7"> <img src="https://img.shields.io/badge/react dom-FA5858"> <img src="https://img.shields.io/badge/react icon-FA8258"> <img src="https://img.shields.io/badge/react router dom-F4FA58"> <img src="https://img.shields.io/badge/react virtualized-58FA58">
 
