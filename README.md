@@ -64,4 +64,4 @@
 ![image](https://github.com/GSITM-Team3/react-traffic-safety/assets/144106932/d1570657-af01-4d3f-a4f5-161d63ba7d4e)
 ![image](https://github.com/GSITM-Team3/react-traffic-safety/assets/144106932/881ad2cb-29c4-4e31-83f9-2c8c6a3fbc72)
 ![image](https://github.com/GSITM-Team3/react-traffic-safety/assets/144106932/3c416d74-4e29-4b77-a1e1-acfb1f4c77b6)
-![CRUD](https://github.com/GSITM-Team3/react-traffic-safety/assets/144106932/a8399c1c-0096-4853-b5f9-ffe12989ba0d)
+![image](https://github.com/GSITM-Team3/react-traffic-safety/assets/144106932/b27133f9-9344-4a1b-beca-f4355515a1bb)
