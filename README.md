@@ -13,10 +13,10 @@
 
 <br>
 
-## 📺 개발환경
+## 💻 개발환경
 개발 도구 <img src="https://img.shields.io/badge/HTML-FF0000"> <img src="https://img.shields.io/badge/CSS-013ADF"> <img src="https://img.shields.io/badge/JavaScript-FFFF00"> <img src="https://img.shields.io/badge/React-81BEF7">
 
-라이브러리 <img src="https://img.shields.io/badge/axios-AC58FA"> <img src="https://img.shields.io/badge/react-58D3F7"> <img src="https://img.shields.io/badge/react dom-FA5858"> <img src="https://img.shields.io/badge/react icon-FA8258"> <img src="https://img.shields.io/badge/react router dom-F4FA58"> <img src="https://img.shields.io/badge/react firtualized-58FA58">
+라이브러리 <img src="https://img.shields.io/badge/axios-AC58FA"> <img src="https://img.shields.io/badge/react-58D3F7"> <img src="https://img.shields.io/badge/react dom-FA5858"> <img src="https://img.shields.io/badge/react icon-FA8258"> <img src="https://img.shields.io/badge/react router dom-F4FA58"> <img src="https://img.shields.io/badge/react virtualized-58FA58">
 
 <br>
 
@@ -57,3 +57,11 @@
 
 ## 📹 시연 영상
 [![Video Lable](http://img.youtube.com/vi/LJhPGPtheq4/0.jpg)](http://youtu.be/LJhPGPtheq4)
+
+<br>
+
+## 🖥 화면별 기능
+![image](https://github.com/GSITM-Team3/react-traffic-safety/assets/144106932/d1570657-af01-4d3f-a4f5-161d63ba7d4e)
+![image](https://github.com/GSITM-Team3/react-traffic-safety/assets/144106932/881ad2cb-29c4-4e31-83f9-2c8c6a3fbc72)
+![image](https://github.com/GSITM-Team3/react-traffic-safety/assets/144106932/3c416d74-4e29-4b77-a1e1-acfb1f4c77b6)
+![CRUD](https://github.com/GSITM-Team3/react-traffic-safety/assets/144106932/a8399c1c-0096-4853-b5f9-ffe12989ba0d)
