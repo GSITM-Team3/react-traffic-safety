@@ -9,7 +9,7 @@
 
 
 ### 📺 개발환경
-<img src="https://img.shields.io/badge/HTML-FF0000"> <img src="https://img.shields.io/badge/SCC-013ADF"> <img src="https://img.shields.io/badge/JavaScript-FFFF00"> <img src="https://img.shields.io/badge/React-81BEF7">
+<img src="https://img.shields.io/badge/HTML-FF0000"> <img src="https://img.shields.io/badge/CSS-013ADF"> <img src="https://img.shields.io/badge/JavaScript-FFFF00"> <img src="https://img.shields.io/badge/React-81BEF7">
 
 <img src="https://img.shields.io/badge/lib-AC58FA">
 
