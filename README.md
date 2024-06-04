@@ -1,5 +1,5 @@
-# 교통안전 프로젝트
-## GSITM부트캠프 React 프로젝트
+# 경기도 사고 유형별 위치 조회 프로젝트
+## GSITM 부트캠프 교통안전 React 프로젝트
 
 ## 🚥 소개
 **배경** : 현재 대한민국은 자동차 보유가 보편화되어 현대 사회에서 편리한 교통 수단으로 자리 잡고 있습니다.  
@@ -18,6 +18,14 @@
 
 라이브러리 <img src="https://img.shields.io/badge/axios-AC58FA"> <img src="https://img.shields.io/badge/react-58D3F7"> <img src="https://img.shields.io/badge/react dom-FA5858"> <img src="https://img.shields.io/badge/react icon-FA8258"> <img src="https://img.shields.io/badge/react router dom-F4FA58"> <img src="https://img.shields.io/badge/react virtualized-58FA58">
 
+<br>
+
+## 🙋‍♂️🙋‍♀️ 참고사항
+1. 이 프로젝트는 오로지 리액트를 사용하여 구성되었습니다.
+2. 실제 데이터베이스 연동없이 구현되어 있습니다.
+3. 게시판은 관리자만 사용할 수 있도록 설계되었습니다.
+4. 다운로드 편의를 위해 Zip파일도 함께 제공되고 있습니다.
+   
 <br>
 
 ## 🛠 기능 요약
